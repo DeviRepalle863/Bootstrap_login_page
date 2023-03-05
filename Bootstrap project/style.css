@@ -1,0 +1,68 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  .row{
+    width:auto;
+    height:35.5rem;
+    box-shadow: 12px 12px 27px;
+    background-color: white;
+    border-radius: 30px;
+  
+  }
+  img{
+    width: 45.5rem;
+    height: 35.5rem;
+    border-radius: 35% 20px;
+  }
+  .h1{
+    font-size: 2.5rem;
+    font-weight: 100;
+    
+    
+  }
+  .inp{
+    width:70%;
+    height: 3rem;
+    border-radius: 40px;
+    background:linear-gradient(to right, rgb(115, 94, 161),rgb(38, 153, 173),rgba(66, 66, 212, 0.459));
+    box-shadow: 2px 1px 15px;
+    border-color: rgb(115, 168, 116);
+    border-right: rgb(115, 168, 116);
+    border-top: rgb(115, 168, 116);
+    border-left: rgb(115, 168, 116);
+  }
+  .btn1{
+    width:10rem;
+    height: 3rem;
+    border-radius: 20px;
+    background-color:rgba(40, 93, 153, 0.801);
+    color: white;
+    border-color: white;
+    border-bottom: white;
+    border-right: white;
+  }
+  .btn1:hover{
+    background-color:rgba(40, 93, 153, 1.0);
+  }
+  ::placeholder{
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+  }
+  .icon{
+    font-size: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  }
+  .hey:hover{
+      color:#3F77F3;
+  }
+  .ins:hover{
+    color:#3F77F3;
+  }
